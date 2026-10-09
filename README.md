@@ -58,10 +58,10 @@ A composição da equipe de desenvolvimento do projeto é apresentada na tabela 
 
 | Nome Completo | Matrícula | Papel Scrum | Atribuição no Projeto Integrador |
 | :--- | :--- | :--- | :--- |
-| **Bruno Alexandre Silva Cascalheiro** | 2520226 | A definir (alinhar com docs/time-agil.md) | Liderança de Equipe e Pesquisa de Mercado |
-| **Davi Isaac de Brito Pacheco** | 2520051 | A definir (alinhar com docs/time-agil.md) | Documentação Técnica, Validação de Conteúdo e Análise de Mercado |
-| **Lucas Felipe dos Santos Souza** | 2520506 | A definir (alinhar com docs/time-agil.md) | Engenharia de Requisitos e Apoio Documental |
-| **Natália Estevão Souza Moura** | 2520029 | A definir (alinhar com docs/time-agil.md) | Design de Interface (UI/UX) e Prototipação |
+| **Bruno Alexandre Silva Cascalheiro** | 2520226 | A definir (Scrum Master) | Liderança de Equipe e Pesquisa de Mercado |
+| **Davi Isaac de Brito Pacheco** | 2520051 | A definir (Product Owner) | Documentação Técnica, Validação de Conteúdo e Análise de Mercado |
+| **Lucas Felipe dos Santos Souza** | 2520506 | A definir (Developer) | Engenharia de Requisitos e Apoio Documental |
+| **Natália Estevão Souza Moura** | 2520029 | A definir (Developer) | Design de Interface (UI/UX) e Prototipação |
 
 > **Orientação Acadêmica:**
 > * Prof. Eduardo Dias Pereira (Orientador Principal)
