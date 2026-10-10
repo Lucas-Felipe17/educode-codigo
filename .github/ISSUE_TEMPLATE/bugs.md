@@ -1,8 +1,10 @@
+---
 name: Bug
 about: Relatar um erro ou problema (em código, documentação ou protótipo)
 title: "[Bug] "
 labels: bug
 assignees: ''
+---
 
 ## Onde o problema acontece
 <!-- Marque o que se aplica -->
