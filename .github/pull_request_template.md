@@ -13,9 +13,8 @@ Closes #número
 - [ ] Todos os critérios de aceitação da issue foram atendidos
 - [ ] O PR aponta a issue que resolve (Closes #número)
 - [ ] Outro integrante revisou e aprovou o PR
-- [ ] A documentação afetada (README ou docs/time-agil.md) foi atualizada
+- [ ] A documentação afetada foi atualizada
 - [ ] Não há conflitos com a branch main
-- [ ] A issue está na coluna DONE do quadro após o merge
 
 ## Observações
 <!-- Dúvidas, pontos de atenção para o revisor, próximos passos. Opcional. -->
