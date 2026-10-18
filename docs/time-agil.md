@@ -17,10 +17,11 @@ Para que uma atividade possa sair do fluxo inicial e entrar em DOING (Em andamen
 ## Definition of Done
 Para que uma atividade seja considerada efetivamente concluída no contexto atual de documentação e prototipação, ela deve cumprir os seguintes critérios objetivos:
 
- - O artefato ou documento foi elaborado de acordo com os requisitos e protótipos existentes.
- - O material gerado passou por uma revisão ou validação conjunta dos integrantes.
- - A formatação e a ortografia foram revisadas e padronizadas.
- - Os links, fluxos ou diagramas anexados estão funcionais e acessíveis.
+- [ ] Todos os critérios de aceitação da issue foram atendidos
+- [ ] O PR aponta a issue que resolve (Closes #número)
+- [ ] Outro integrante revisou e aprovou o PR
+- [ ] A documentação afetada foi atualizada
+- [ ] Não há conflitos com a branch main
 
 ## Matriz de stakeholders 
 (Lucas)
