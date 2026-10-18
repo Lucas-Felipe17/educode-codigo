@@ -84,4 +84,7 @@ Os artefatos e protótipos oficiais do projeto podem ser consultados através do
 3. **Questionário da Pesquisa com Usuários (Google Forms):**
    * Link: [Questionário de Pesquisa EduCode](https://docs.google.com/forms/d/e/1FAIpQLSfAPIaCKr-F7dOPIfSnrt1S9xXXXWGio1ttif5IBP_WaHhYtw/viewform?usp=sharing&ouid=100170045955189046748)
 4. **Protótipo Interativo no Figma:**
-   * Link: [Figma] (https://www.figma.com/design/NJ75xlvxPkE1fKGcYK05a5/PI_PROT%C3%93TIPO?node-id=0-1&t=6lzJsraY2jJp7ZMl-1).
+    * Link: [Figma] (https://www.figma.com/design/NJ75xlvxPkE1fKGcYK05a5/PI_PROT%C3%93TIPO?node-id=0-1&t=6lzJsraY2jJp7ZMl-1).
+5. **Repositório Oficial de SQL (GitHub):**
+    * https://github.com/estevaonatalia6-bot/educode-sql 
+ 
