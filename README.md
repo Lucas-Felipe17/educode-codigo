@@ -57,11 +57,11 @@ O escopo do projeto está delimitado em conformidade com os requisitos levantado
 A composição da equipe de desenvolvimento do projeto é apresentada na tabela abaixo. Os papéis Scrum formais estão alinhados com a estrutura ágil do projeto e com o arquivo `docs/time-agil.md`:
 
 | Nome Completo | Papel Scrum | Atribuição no Projeto Integrador |
-| :--- | :--- | :--- | :--- |
-| **Bruno Alexandre ** | A definir (Product Owner) | Liderança de Equipe e Pesquisa de Mercado |
-| **Davi Isaac ** | A definir (Developer) | Design de Interface (UI/UX) e Prototipação |
-| **Lucas Felipe ** | A definir (Scrum Master) | Documentação Técnica, Validação de Conteúdo e Análise de Mercado |
-| **Natália Estevão ** | A definir (Developer) | Engenharia de Requisitos e Apoio Documental |
+| :--- | :--- | :--- |
+| **Bruno Alexandre** | A definir (Product Owner) | Liderança de Equipe e Pesquisa de Mercado |
+| **Davi Isaac** | A definir (Developer) | Design de Interface (UI/UX) e Prototipação |
+| **Lucas Felipe** | A definir (Scrum Master) | Documentação Técnica, Validação de Conteúdo e Análise de Mercado |
+| **Natália Estevão** | A definir (Developer) | Engenharia de Requisitos e Apoio Documental |
 
 > **Orientação Acadêmica:**
 > * Prof. Eduardo Dias Pereira (Orientador Principal)
