@@ -59,8 +59,8 @@ A composição da equipe de desenvolvimento do projeto é apresentada na tabela 
 | Nome Completo | Matrícula | Papel Scrum | Atribuição no Projeto Integrador |
 | :--- | :--- | :--- | :--- |
 | **Bruno Alexandre Silva Cascalheiro** | 2520226 | A definir (Scrum Master) | Liderança de Equipe e Pesquisa de Mercado |
-| **Davi Isaac de Brito Pacheco** | 2520051 | A definir (Product Owner) | Design de Interface (UI/UX) e Prototipação |
-| **Lucas Felipe dos Santos Souza** | 2520506 | A definir (Developer) | Documentação Técnica, Validação de Conteúdo e Análise de Mercado |
+| **Davi Isaac de Brito Pacheco** | 2520051 | A definir (Developer) | Design de Interface (UI/UX) e Prototipação |
+| **Lucas Felipe dos Santos Souza** | 2520506 | A definir (Product Owner) | Documentação Técnica, Validação de Conteúdo e Análise de Mercado |
 | **Natália Estevão Souza Moura** | 2520029 | A definir (Developer) | Engenharia de Requisitos e Apoio Documental |
 
 > **Orientação Acadêmica:**
