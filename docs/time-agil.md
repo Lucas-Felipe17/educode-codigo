@@ -124,7 +124,6 @@ O time usou ferramentas de IA generativa neste projeto.
 | Claude | Formatação e estruturação dos templates de PR, e ISSUES, de acordo com o conteúdo proposto pelos integrantes | .github/pull_request_template.md, .github/ISSUES_TEMPLATE/bugs, .github/ISSUES_TEMPLATE/funcionalidade |
 | DeepSeek | Formatação da estrutura em Markdown de readme.md | readme.md |
 | ChatGPT | Sugestão de estrutura e formatação em Markdown de docs/time-agil.md | docs/time-agil.md |
-| [ferramenta 2] | [finalidade] | [arquivo, issue ou PR] |
 
 ### O que o time revisou ou mudou
 
