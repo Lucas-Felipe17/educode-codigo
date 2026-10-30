@@ -9,12 +9,12 @@ As informações devem ser idênticas às cadastradas pelo Integrante 1 no READM
 
 Para que uma atividade possa sair do fluxo inicial e entrar em DOING (Em andamento), ela deve cumprir as seguintes condições verificáveis do processo real do grupo:
 
- -Objetivo da atividade definido.
- -Escopo compreendido pelo integrante responsável.
- -Informações necessárias disponíveis para execução.
- -Critérios de aceitação definidos.
- -Prioridade definida.
- -Responsável pela atividade identificado, quando aplicável.
+- Objetivo da atividade definido.
+- Escopo compreendido pelo integrante responsável.
+- Informações necessárias disponíveis para execução.
+- Critérios de aceitação definidos.
+- Prioridade definida.
+- Responsável pela atividade identificado, quando aplicável.
 
 ## Definition of Done
 
